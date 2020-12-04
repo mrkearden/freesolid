@@ -1,0 +1,8 @@
+! ----- names for bodies -----
+$ fluid = 1
+$ solid = 2
+! ----- names for boundaries -----
+$ walls = 1
+$ fsi = 2
+$ inlet = 3
+$ outlet = 4
