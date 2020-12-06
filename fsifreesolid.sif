@@ -40,7 +40,7 @@ End
 
 Material 2
   Density = 100
-  Youngs Modulus = 1.0e3
+  Youngs Modulus = 70E9
   Poisson Ratio = 0.3
 End
 
