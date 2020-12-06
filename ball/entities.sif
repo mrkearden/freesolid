@@ -1,0 +1,26 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = fluid
+End
+
+Body 2
+  Name = ball
+End
+
+!------ Skeleton for boundary section -----
+Boundary Condition 1
+  Name = walls
+End
+
+Boundary Condition 2
+  Name = ball
+End
+
+Boundary Condition 3
+  Name = inlet
+End
+
+Boundary Condition 4
+  Name = outlet
+End
+
